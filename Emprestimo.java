@@ -29,7 +29,7 @@ public class Emprestimo {
         }
 
         else {
-            System.out.println("Quantidade de parcelas não aceita");
+            System.out.println("Quantidade de parcelas (" + parcelas + ") não aceita");
         }
     }
 }
